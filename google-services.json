@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1016578053693",
+    "firebase_url": "https://bludiary-2262a.firebaseio.com",
+    "project_id": "bludiary-2262a",
+    "storage_bucket": "bludiary-2262a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016578053693:android:4198473a09dee98c",
+        "android_client_info": {
+          "package_name": "com.example.personal.diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016578053693-glp1alqqp5ccq2g7k16ahij5rmjmed5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personal.diary",
+            "certificate_hash": "ba40a80278b2dcfc5a4f2218f3b7ea1872402358"
+          }
+        },
+        {
+          "client_id": "1016578053693-174bothahpmgukgv820fjvj52bpmg5jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personal.diary",
+            "certificate_hash": "414753a855fe889aa5c9653daea3ddb9860d9342"
+          }
+        },
+        {
+          "client_id": "1016578053693-jrtilqln42el1517lh1u97e95qjdc8f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RIEwPOOxESkDFhqxm900eI-pvDkMOLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016578053693-jrtilqln42el1517lh1u97e95qjdc8f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
